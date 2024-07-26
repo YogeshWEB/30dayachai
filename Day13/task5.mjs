@@ -1,0 +1,10 @@
+export const a="0";
+export const b="1";
+export const c="2";
+export const d="3";
+export const e="4";
+export const f="5";
+export const g="6";
+export const h="7";
+export const i="8";
+export const j="9";
